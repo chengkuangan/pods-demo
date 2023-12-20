@@ -92,6 +92,8 @@
 
 ## Test Results
 
+These are results taken from the Grafana dashboard. At the moment, we only interested at the time required to complete 1000 messages, i.e. `DB Time per 1000 messages`
+
 - 1st Run. Usually a bit faster because no existing record to delete.
 
   | Total Messages  | Total Message Size (MB)  | Ingestor Throughput (mps) | Total DB Inserts | Insert SQL Throughput   | Total DB Time | DB Time per 1000 messages|
