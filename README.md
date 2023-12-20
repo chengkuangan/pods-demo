@@ -79,7 +79,8 @@
     oc create -f ${TEMPLATES_DIR}/monitoring/ocp/service-monitor.yaml -n ${APPS_NAMESPACE}
     ```
 
-5. Deploy the Dashboard at [/yaml/monitoring/grafana/dashboards/batch.json](/yaml/monitoring/grafana/dashboards/batch.json)
+5. Deploy the Dashboard at [/yaml/monitoring/grafana/dashboards/batch.json](/yaml/monitoring/grafana/dashboards/batch.json).
+
     If the dashboard showing warning or error, try to edit each visual component to manually select the data source.
 
 6. Demonstrate it
