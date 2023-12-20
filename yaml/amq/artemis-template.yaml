@@ -1,0 +1,40 @@
+apiVersion: broker.amq.io/v1beta1
+kind: ActiveMQArtemis
+metadata:
+  name: AMQ_NAME
+spec:
+  adminUser: ADMIN_USER
+  adminPassword: ADMIN_PASSWORD
+  deploymentPlan:
+    size: 1
+    requireLogin: true
+    persistenceEnabled: true
+    journalType: nio
+    messageMigration: false
+    resources:
+      limits:
+        cpu: 500m
+        memory: 1024Mi
+      requests:
+        cpu: 250m
+        memory: 512Mi
+    storage:
+      size: "10Gi"
+    jolokiaAgentEnabled: false
+    managementRBACEnabled: true
+  console:
+    expose: true
+  acceptors:
+    - name: CORE_NAME
+      protocols: core
+      port: CORE_PORT
+      sslEnabled: false
+      enabledProtocols: TLSv1,TLSv1.1,TLSv1.2
+      needClientAuth: false
+      wantClientAuth: true
+      verifyHost: true
+      sslProvider: JDK
+      sniHost: localhost
+      expose: true
+      anycastPrefix: jms.queue.
+      multicastPrefix: /topic/

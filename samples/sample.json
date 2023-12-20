@@ -1,0 +1,5340 @@
+[
+{
+  "activityReport": [
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SK",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 72
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SK",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 72
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SK",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 72
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SK",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 72
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SK",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 72
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SK",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 73
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SK",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 74
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SK",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 75
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "OPC",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 107
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "OPW",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 108
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 42
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 45
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 48
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 51
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 54
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 57
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 97
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 98
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 99
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FE",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 76
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FE",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 77
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FE",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 78
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FM",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 29
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FM",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 33
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FM",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 37
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemRef": {
+        "tattooType": "PT",
+        "tattooNum": 2
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemRef": {
+        "tattooType": "PT",
+        "tattooNum": 4
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemRef": {
+        "tattooType": "PT",
+        "tattooNum": 5
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 79
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 80
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 81
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 82
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 83
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 84
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 85
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 86
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 87
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 88
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 89
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AP",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 90
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FV",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 30
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FV",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 34
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FV",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 38
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FV",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 44
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FV",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 47
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FV",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 50
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FV",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 53
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FV",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 56
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FV",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 59
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "TK",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 100
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FZ",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 1
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FZ",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 66
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FZ",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 67
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FZ",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 68
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FZ",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 69
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FZ",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 70
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "FZ",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 71
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 12
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 13
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 14
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 15
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 16
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 17
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 18
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 19
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 20
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 21
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 22
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 23
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 24
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 25
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 26
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 91
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 92
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 93
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 94
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 95
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 96
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 101
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 102
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 103
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 104
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 105
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "SSR",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 106
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AIR",
+      "elemRef": {
+        "tattooType": "ST",
+        "tattooNum": 1
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "AIR",
+      "elemRef": {
+        "tattooType": "ST",
+        "tattooNum": 2
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "TST",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 1
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "TST",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 2
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "TST",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 3
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "TSM",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 42
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "TSM",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 45
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "TSM",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 48
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "TSM",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 51
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "TSM",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 54
+      }
+    },
+    {
+      "activityType": "EUP",
+      "actionCode": "A",
+      "elemType": "TSM",
+      "elemRef": {
+        "tattooType": "OT",
+        "tattooNum": 57
+      }
+    }
+  ],
+  "activePNRimage": {
+    "amadeusId": {
+      "reservation": {
+        "controlNumber": "9ALF15"
+      }
+    },
+    "pnrHeader": {
+      "pnrPurgeDate": "2022-10-25",
+      "currentEnvelopeNum": 0,
+      "numEnvelopesSent": 0,
+      "reservationInfo": [
+        {
+          "lastEOTDateTime": "2022-07-17T09:54:00+0800",
+          "controlType": "A"
+        },
+        {
+          "amadeusCompanyID": "1A",
+          "amadeusRecordLocator": "5ALFCV"
+        }
+      ],
+      "securityInformation": [
+        {
+          "responsibilityInformation": {
+            "typeOfPnrElement": "RP",
+            "agentId": "WSAS",
+            "responsibleOfficeID": "BOMSQ08VT"
+          },
+          "queueingInformation": {
+            "queueingOfficeId": "BOMSQ08VT"
+          },
+          "secondRpInformation": {
+            "creationOfficeId": "BOMSQ08VT",
+            "agentSignature": "9999WS",
+            "creatorIataCode": "14095723",
+            "pnrCreationDateTime": "2022-07-17T09:54:00+0800"
+          }
+        }
+      ],
+      "numPaxInPNR": 3,
+      "lastUpdatorOfficeID1": "BOMSQ08VT",
+      "lastUpdatorAgentSine1": "9999WSAS",
+      "lastUpdatorReceivedFromInfo": "ANDC*IN-14349646*AI-14349646*AG-VTL-SQ/WSSQVTL",
+      "ownerPosDetails": {
+        "officeID1": "BOMSQ08VT",
+        "iataCode": "14095723",
+        "sourceOfBooking": "A",
+        "companyId": "SQ",
+        "cityCode": "BOM",
+        "countryCode": "IN"
+      },
+      "creationPosDetails": {
+        "officeID1": "BOMSQ08VT",
+        "iataCode": "14095723",
+        "sourceOfBooking": "A",
+        "companyId": "SQ",
+        "cityCode": "BOM",
+        "countryCode": "IN"
+      },
+      "updatorPosDetails": {
+        "officeID1": "BOMSQ08VT",
+        "iataCode": "14095723",
+        "sourceOfBooking": "A",
+        "companyId": "SQ",
+        "cityCode": "BOM",
+        "countryCode": "IN"
+      },
+      "bookingChannel": "NOF"
+    },
+    "paxInfo": [
+      {
+        "elemType": "NM",
+        "elemRef": {
+          "tattooType": "PT",
+          "tattooNum": 2
+        },
+        "paxSurName": "ADULTONE",
+        "paxCount": 1,
+        "firstNameOriginal": "TEST MR",
+        "firstName": "TEST",
+        "paxTitle": "MR",
+        "paxType": "ADT",
+        "dateOfBirth": "2000-01-01",
+        "isTravellingWithInfant": "1",
+        "infantSurName": "INFANTONE",
+        "infantFirstName": "TEST",
+        "infantType": "INF"
+      },
+      {
+        "elemType": "NM",
+        "elemRef": {
+          "tattooType": "PT",
+          "tattooNum": 4
+        },
+        "paxSurName": "ADULTTWO",
+        "paxCount": 1,
+        "firstNameOriginal": "TEST MR",
+        "firstName": "TEST",
+        "paxTitle": "MR",
+        "paxType": "ADT",
+        "dateOfBirth": "2002-05-10"
+      },
+      {
+        "elemType": "NM",
+        "elemRef": {
+          "tattooType": "PT",
+          "tattooNum": 5
+        },
+        "paxSurName": "CHILDONE",
+        "paxCount": 1,
+        "firstNameOriginal": "TEST MISS",
+        "firstName": "TEST",
+        "paxTitle": "MISS",
+        "paxType": "CHD",
+        "dateOfBirth": "2015-01-01"
+      }
+    ],
+    "originDestinationDetails": {
+      "originDestination": {},
+      "itineraryInfo": [
+        {
+          "elemRef": {
+            "tattooType": "ST",
+            "tattooNum": 1
+          },
+          "elemType": "AIR",
+          "association": [
+            {
+              "reference": {
+                "refValue": "2",
+                "refType": "PT"
+              }
+            },
+            {
+              "reference": {
+                "refValue": "4",
+                "refType": "PT"
+              }
+            },
+            {
+              "reference": {
+                "refValue": "5",
+                "refType": "PT"
+              }
+            }
+          ],
+          "companyCode": "SQ",
+          "flightNum": "308",
+          "bookingClass": "E",
+          "startDateTime": "2022-10-15T09:00:00+0800",
+          "endDateTime": "2022-10-15T15:40:00+0800",
+          "etIndicator": "ET",
+          "boardPoint": "SIN",
+          "offPoint": "LHR",
+          "bookingCreationDateTime": "2022-07-17",
+          "originalStatusCode1": "NN",
+          "originalStatusCode2": "NN",
+          "extAirlineCode1": "SQ",
+          "extAirlineRecordLocator1": "5ALFCV",
+          "quantity": "3",
+          "statusCode": "HK",
+          "aircraftType": "77W",
+          "daysOfOperation": "6",
+          "boardPointTerminal": "2",
+          "offPointTerminal": "3",
+          "selectionDetails": {
+            "selection": [
+              {
+                "levelOfAccessOption": "P2"
+              }
+            ]
+          },
+          "inventoryData": {
+            "posInvClassification": "C",
+            "posInvCompanyID": "SQ",
+            "posInvCountryCode": "IN",
+            "cabinCode": "Y",
+            "subClassNum": "0"
+          },
+          "flightType": "I",
+          "yieldDataGroup": {
+            "bidPriceAmount": 0,
+            "yieldAmount": 12,
+            "adjustedYieldAmount": 12,
+            "effectiveYieldAmount": 12,
+            "yieldClassOfService": "E",
+            "yieldOrigin": "SIN",
+            "yieldDestination": "LHR",
+            "tripOrigin": "SIN",
+            "tripDestination": "LHR"
+          },
+          "itinPosDetails": {
+            "officeID": "BOMSQ08VT",
+            "iataCode": "14095723",
+            "sourceofBooking": "A",
+            "companyId": "00",
+            "cityCode": "BOM",
+            "countryCode": "IN"
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "ST",
+            "tattooNum": 2
+          },
+          "elemType": "AIR",
+          "association": [
+            {
+              "reference": {
+                "refValue": "2",
+                "refType": "PT"
+              }
+            },
+            {
+              "reference": {
+                "refValue": "4",
+                "refType": "PT"
+              }
+            },
+            {
+              "reference": {
+                "refValue": "5",
+                "refType": "PT"
+              }
+            }
+          ],
+          "companyCode": "SQ",
+          "flightNum": "305",
+          "bookingClass": "E",
+          "startDateTime": "2022-10-21T10:25:00+0800",
+          "endDateTime": "2022-10-22T06:30:00+0800",
+          "dayChangeIndicator": "2",
+          "etIndicator": "ET",
+          "boardPoint": "LHR",
+          "offPoint": "SIN",
+          "bookingCreationDateTime": "2022-07-17",
+          "originalStatusCode1": "NN",
+          "originalStatusCode2": "NN",
+          "extAirlineCode1": "SQ",
+          "extAirlineRecordLocator1": "5ALFCV",
+          "quantity": "3",
+          "statusCode": "HK",
+          "aircraftType": "77W",
+          "daysOfOperation": "5",
+          "boardPointTerminal": "0",
+          "offPointTerminal": "2",
+          "selectionDetails": {
+            "selection": [
+              {
+                "levelOfAccessOption": "P2"
+              }
+            ]
+          },
+          "inventoryData": {
+            "posInvClassification": "C",
+            "posInvCompanyID": "SQ",
+            "posInvCountryCode": "IN",
+            "cabinCode": "Y",
+            "subClassNum": "0"
+          },
+          "flightType": "I",
+          "yieldDataGroup": {
+            "bidPriceAmount": 0,
+            "yieldAmount": 12,
+            "adjustedYieldAmount": 12,
+            "effectiveYieldAmount": 12,
+            "yieldClassOfService": "E",
+            "yieldOrigin": "LHR",
+            "yieldDestination": "SIN",
+            "tripOrigin": "LHR",
+            "tripDestination": "SIN"
+          },
+          "itinPosDetails": {
+            "officeID": "BOMSQ08VT",
+            "iataCode": "14095723",
+            "sourceofBooking": "A",
+            "companyId": "00",
+            "cityCode": "BOM",
+            "countryCode": "IN"
+          }
+        }
+      ]
+    },
+    "dataElementsMaster": {
+      "marker2": {},
+      "dataElementsIndiv": [
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 12
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "INFT",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "INFANTONE/TEST 01JAN21"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 13
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "INFT",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "INFANTONE/TEST 01JAN21"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 14
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CHLD",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "01JAN15"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 15
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "AVML",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ"
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 16
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "AVML",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ"
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 17
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "AVML",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ"
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 18
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "AVML",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ"
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 19
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "AVML",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ"
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 20
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "AVML",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ"
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 21
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "XBAG",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "TTL 0KG"
+            ]
+          },
+          "ssrIndicator": {
+            "statusDetails": {
+              "indicator": "SR",
+              "action": "CGB"
+            }
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 22
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "XBAG",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "TTL 0KG"
+            ]
+          },
+          "ssrIndicator": {
+            "statusDetails": {
+              "indicator": "SR",
+              "action": "CGB"
+            }
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 23
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "XBAG",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "TTL 0KG"
+            ]
+          },
+          "ssrIndicator": {
+            "statusDetails": {
+              "indicator": "SR",
+              "action": "CGB"
+            }
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 24
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "XBAG",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "TTL 0KG"
+            ]
+          },
+          "ssrIndicator": {
+            "statusDetails": {
+              "indicator": "SR",
+              "action": "CGB"
+            }
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 25
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "XBAG",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "TTL 0KG"
+            ]
+          },
+          "ssrIndicator": {
+            "statusDetails": {
+              "indicator": "SR",
+              "action": "CGB"
+            }
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 26
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "XBAG",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "TTL 0KG"
+            ]
+          },
+          "ssrIndicator": {
+            "statusDetails": {
+              "indicator": "SR",
+              "action": "CGB"
+            }
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 91
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCE",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "VINA******"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 92
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCM",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "911234567890/EN"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 93
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCE",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "VINA******"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 94
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCM",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "911234567890/EN"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 95
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCE",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "VINA******"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 96
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCM",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "911234567890/EN"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 101
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCE",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "VINA******"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 102
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCM",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "911234567890"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 103
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCE",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "VINA******"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 104
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCM",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "911234567890"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 105
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCE",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "VINA******"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 106
+          },
+          "elemType": "SSR",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            }
+          ],
+          "serviceRequest": {
+            "type": "CTCM",
+            "status": "HK",
+            "quantity": 1,
+            "companyId": "SQ",
+            "freeText": [
+              "911234567890"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 79
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "SQ/E******",
+              "type": "5",
+              "status": "N"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 80
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "SQ/M+911234567890/EN",
+              "type": "5",
+              "status": "N"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 81
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "VINA******",
+              "type": "P02"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 82
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "91 1234567890",
+              "type": "7"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 83
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "SQ/E******",
+              "type": "5",
+              "status": "N"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 84
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "SQ/M+911234567890/EN",
+              "type": "5",
+              "status": "N"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 85
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "VINA******",
+              "type": "P02"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 86
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "91 1234567890",
+              "type": "7"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 87
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "SQ/E******",
+              "type": "5",
+              "status": "N"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 88
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "SQ/M+911234567890/EN",
+              "type": "5",
+              "status": "N"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 89
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "VINA******",
+              "type": "P02"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 90
+          },
+          "elemType": "AP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "91 1234567890",
+              "type": "7"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 100
+          },
+          "elemType": "TK",
+          "ticketElement": {
+            "indicator": "OK",
+            "tktingDateTime": "2022-07-17",
+            "officeId": "BOMSQ08VT",
+            "sitaAddress1": "BOMSQ08VT"
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 76
+          },
+          "elemType": "FE",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX *M*NO CHNG FEE /REFUND FEE APPLY /NO SHOW FEE APPLY|14349646||",
+              "type": "10"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 77
+          },
+          "elemType": "FE",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX *M*NO CHNG FEE /REFUND FEE APPLY /NO SHOW FEE APPLY|14349646||",
+              "type": "10"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 78
+          },
+          "elemType": "FE",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "INF *M*NO CHNG FEE /REFUND FEE APPLY /NO SHOW FEE APPLY|14349646||",
+              "type": "10"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 29
+          },
+          "elemType": "FM",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX *F*0.00",
+              "type": "11"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 33
+          },
+          "elemType": "FM",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX *F*0.00",
+              "type": "11"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 37
+          },
+          "elemType": "FM",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "INF *F*0.00",
+              "type": "11"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 42
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "42"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "CASH/INR1661",
+              "type": "16"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 45
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "45"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "CASH/INR1661",
+              "type": "16"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 48
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "48"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "CASH/INR1661",
+              "type": "16"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 51
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "51"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "CASH/INR1661",
+              "type": "16"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 54
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "54"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "CASH/INR1661",
+              "type": "16"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 57
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "57"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "CASH/INR1661",
+              "type": "16"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 97
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX CASH/INR157545",
+              "type": "16"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 98
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX CASH/INR114298",
+              "type": "16"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 99
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "INF CASH/INR19489",
+              "type": "16"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 30
+          },
+          "elemType": "FV",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX *F*SQ",
+              "type": "P18"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 34
+          },
+          "elemType": "FV",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX *F*SQ",
+              "type": "P18"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 38
+          },
+          "elemType": "FV",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "INF *F*SQ",
+              "type": "P18"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 44
+          },
+          "elemType": "FV",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "44"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX SQ",
+              "type": "P18"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 47
+          },
+          "elemType": "FV",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "47"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX SQ",
+              "type": "P18"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 50
+          },
+          "elemType": "FV",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "50"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX SQ",
+              "type": "P18"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 53
+          },
+          "elemType": "FV",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "53"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX SQ",
+              "type": "P18"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 56
+          },
+          "elemType": "FV",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "56"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX SQ",
+              "type": "P18"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 59
+          },
+          "elemType": "FV",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "59"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "PAX SQ",
+              "type": "P18"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 1
+          },
+          "elemType": "FZ",
+          "otherDataFreetext": [
+            {
+              "freetext": "RA14349646",
+              "type": "P19"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 66
+          },
+          "elemType": "FZ",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "42"
+              }
+            },
+            {
+              "reference": {
+                "refType": "SSR",
+                "refValue": "21"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "RA14349646",
+              "type": "P19"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 67
+          },
+          "elemType": "FZ",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "45"
+              }
+            },
+            {
+              "reference": {
+                "refType": "SSR",
+                "refValue": "22"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "RA14349646",
+              "type": "P19"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 68
+          },
+          "elemType": "FZ",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "48"
+              }
+            },
+            {
+              "reference": {
+                "refType": "SSR",
+                "refValue": "23"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "RA14349646",
+              "type": "P19"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 69
+          },
+          "elemType": "FZ",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "51"
+              }
+            },
+            {
+              "reference": {
+                "refType": "SSR",
+                "refValue": "24"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "RA14349646",
+              "type": "P19"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 70
+          },
+          "elemType": "FZ",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "54"
+              }
+            },
+            {
+              "reference": {
+                "refType": "SSR",
+                "refValue": "25"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "RA14349646",
+              "type": "P19"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 71
+          },
+          "elemType": "FZ",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "57"
+              }
+            },
+            {
+              "reference": {
+                "refType": "SSR",
+                "refValue": "26"
+              }
+            }
+          ],
+          "otherDataFreetext": [
+            {
+              "freetext": "RA14349646",
+              "type": "P19"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 107
+          },
+          "elemType": "OPC",
+          "association": [
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "21"
+              }
+            },
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "22"
+              }
+            },
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "23"
+              }
+            },
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "24"
+              }
+            },
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "25"
+              }
+            },
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "26"
+              }
+            }
+          ],
+          "queueOption": {
+            "mainOffice": "BOMSQ08VT",
+            "queueOptDateTime": "2022-07-20T16:23:00+0800",
+            "queue": 1,
+            "category": 16,
+            "freetext": "SQ CANCELLATION DUE TO NO DOCUMENT"
+          },
+          "otherDataFreetext": [
+            {
+              "freetext": "P64528491",
+              "status": "AIL"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 108
+          },
+          "elemType": "OPW",
+          "association": [
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "21"
+              }
+            },
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "22"
+              }
+            },
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "23"
+              }
+            },
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "24"
+              }
+            },
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "25"
+              }
+            },
+            {
+              "reference": {
+                "refType": "OT",
+                "refValue": "26"
+              }
+            }
+          ],
+          "queueOption": {
+            "mainOffice": "BOMSQ08VT",
+            "queueOptDateTime": "2022-07-19T16:23:00+0800",
+            "queue": 1,
+            "category": 14,
+            "freetext": "SQ REQUIRES DOCUMENT ON OR BEFORE 20JUL:1623"
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 72
+          },
+          "elemType": "SK",
+          "serviceRequest": {
+            "type": "NDCS",
+            "companyId": "SQ",
+            "freeText": [
+              "IN-14349646/AI-14349646/"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 73
+          },
+          "elemType": "SK",
+          "serviceRequest": {
+            "type": "NDCA",
+            "companyId": "SQ",
+            "freeText": [
+              "AG-VTL"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 74
+          },
+          "elemType": "SK",
+          "serviceRequest": {
+            "type": "NDCF",
+            "companyId": "SQ",
+            "freeText": [
+              "FLEX_STANDARD"
+            ]
+          }
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 75
+          },
+          "elemType": "SK",
+          "serviceRequest": {
+            "type": "REFE",
+            "companyId": "SQ",
+            "freeText": [
+              "14349646/VTL"
+            ]
+          }
+        }
+      ],
+      "marker3": {},
+      "dataElementsStruct": [
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 65002
+          },
+          "elemType": "UCI",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            }
+          ],
+          "idSection": [
+            {
+              "referenceQualifier": "UCI",
+              "primeId": "5104C0C900017AE0"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 65004
+          },
+          "elemType": "UCI",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            }
+          ],
+          "idSection": [
+            {
+              "referenceQualifier": "UCI",
+              "primeId": "5104C0C900017AE1"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 65005
+          },
+          "elemType": "UCI",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            }
+          ],
+          "idSection": [
+            {
+              "referenceQualifier": "UCI",
+              "primeId": "5104C0C900017AE2"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 42
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "42"
+              }
+            }
+          ],
+          "fopGroup": [
+            {
+              "fopDetails": [
+                {
+                  "fopCode": "CASH",
+                  "fopStatus": "N"
+                }
+              ],
+              "fopSequenceNum": "1",
+              "textSubjectQualifier": "GEN",
+              "source": "ZZZ",
+              "encoding": "M",
+              "freeText": "CASH/INR1661"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 45
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "45"
+              }
+            }
+          ],
+          "fopGroup": [
+            {
+              "fopDetails": [
+                {
+                  "fopCode": "CASH",
+                  "fopStatus": "N"
+                }
+              ],
+              "fopSequenceNum": "1",
+              "textSubjectQualifier": "GEN",
+              "source": "ZZZ",
+              "encoding": "M",
+              "freeText": "CASH/INR1661"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 48
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "48"
+              }
+            }
+          ],
+          "fopGroup": [
+            {
+              "fopDetails": [
+                {
+                  "fopCode": "CASH",
+                  "fopStatus": "N"
+                }
+              ],
+              "fopSequenceNum": "1",
+              "textSubjectQualifier": "GEN",
+              "source": "ZZZ",
+              "encoding": "M",
+              "freeText": "CASH/INR1661"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 51
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "51"
+              }
+            }
+          ],
+          "fopGroup": [
+            {
+              "fopDetails": [
+                {
+                  "fopCode": "CASH",
+                  "fopStatus": "N"
+                }
+              ],
+              "fopSequenceNum": "1",
+              "textSubjectQualifier": "GEN",
+              "source": "ZZZ",
+              "encoding": "M",
+              "freeText": "CASH/INR1661"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 54
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "54"
+              }
+            }
+          ],
+          "fopGroup": [
+            {
+              "fopDetails": [
+                {
+                  "fopCode": "CASH",
+                  "fopStatus": "N"
+                }
+              ],
+              "fopSequenceNum": "1",
+              "textSubjectQualifier": "GEN",
+              "source": "ZZZ",
+              "encoding": "M",
+              "freeText": "CASH/INR1661"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 57
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "MCO",
+                "refValue": "57"
+              }
+            }
+          ],
+          "fopGroup": [
+            {
+              "fopDetails": [
+                {
+                  "fopCode": "CASH",
+                  "fopStatus": "N"
+                }
+              ],
+              "fopSequenceNum": "1",
+              "textSubjectQualifier": "GEN",
+              "source": "ZZZ",
+              "encoding": "M",
+              "freeText": "CASH/INR1661"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 97
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "fopGroup": [
+            {
+              "fopDetails": [
+                {
+                  "fopCode": "CASH",
+                  "fopStatus": "N"
+                }
+              ],
+              "fopSequenceNum": "1",
+              "textSubjectQualifier": "PAX",
+              "source": "ZZZ",
+              "encoding": "M",
+              "freeText": "CASH/INR157545"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 98
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "fopGroup": [
+            {
+              "fopDetails": [
+                {
+                  "fopCode": "CASH",
+                  "fopStatus": "N"
+                }
+              ],
+              "fopSequenceNum": "1",
+              "textSubjectQualifier": "PAX",
+              "source": "ZZZ",
+              "encoding": "M",
+              "freeText": "CASH/INR114298"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 99
+          },
+          "elemType": "FP",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "fopGroup": [
+            {
+              "fopDetails": [
+                {
+                  "fopCode": "CASH",
+                  "fopStatus": "N"
+                }
+              ],
+              "fopSequenceNum": "1",
+              "textSubjectQualifier": "INF",
+              "source": "ZZZ",
+              "encoding": "M",
+              "freeText": "CASH/INR19489"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 6
+          },
+          "elemType": "DID",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            }
+          ],
+          "idSection": [
+            {
+              "referenceQualifier": "DID",
+              "primeId": "5005B0CB0000ED94"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 7
+          },
+          "elemType": "DID",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            }
+          ],
+          "idSection": [
+            {
+              "referenceQualifier": "DID",
+              "primeId": "5005B0CB0000ED95"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 8
+          },
+          "elemType": "DID",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "1"
+              }
+            }
+          ],
+          "idSection": [
+            {
+              "referenceQualifier": "DID",
+              "primeId": "5005B0CB0000ED96"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 9
+          },
+          "elemType": "DID",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "2"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "idSection": [
+            {
+              "referenceQualifier": "DID",
+              "primeId": "5005B0CB0000ED97"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 10
+          },
+          "elemType": "DID",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "4"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "idSection": [
+            {
+              "referenceQualifier": "DID",
+              "primeId": "5005B0CB0000ED98"
+            }
+          ]
+        },
+        {
+          "elemRef": {
+            "tattooType": "OT",
+            "tattooNum": 11
+          },
+          "elemType": "DID",
+          "association": [
+            {
+              "reference": {
+                "refType": "PT",
+                "refValue": "5"
+              }
+            },
+            {
+              "reference": {
+                "refType": "ST",
+                "refValue": "2"
+              }
+            }
+          ],
+          "idSection": [
+            {
+              "referenceQualifier": "DID",
+              "primeId": "5005B0CB0000ED99"
+            }
+          ]
+        }
+      ]
+    },
+    "pricingRecordGroup": {
+      "productPricingQuotationRecord": [
+        {
+          "pricingRecordId": {
+            "referenceType": "TSM",
+            "uniqueReference": "42"
+          },
+          "passengerTattoos": [
+            {
+              "passengerReference": [
+                {
+                  "type": "PA",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "fareIds": [
+            {
+              "referenceDetails": {}
+            }
+          ],
+          "documentDetailsGroup": {
+            "totalFareAmount": "1661",
+            "totalFareCurrency": "INR",
+            "otherFares": [
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "B",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "GT",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "X",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              }
+            ],
+            "issueIdentifiers": "F",
+            "issueIndicators": "I",
+            "rfics": [
+              {
+                "criteriaSetType": "E",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              },
+              {
+                "criteriaSetType": "I",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              }
+            ],
+            "flags": [
+              {
+                "indicator": "CHF",
+                "action": "N"
+              },
+              {
+                "indicator": "ISD",
+                "action": "N"
+              },
+              {
+                "indicator": "CNF",
+                "action": "N"
+              }
+            ],
+            "generalIndicators": [
+              {
+                "attributeType": "EMD",
+                "attributeDescription": "A"
+              },
+              {
+                "attributeType": "TT",
+                "attributeDescription": "TSM"
+              },
+              {
+                "attributeType": "FCP",
+                "attributeDescription": "0"
+              },
+              {
+                "attributeType": "FCR",
+                "attributeDescription": "0"
+              }
+            ],
+            "fareCalcRemarks": [
+              {
+                "freeTextDetails": {
+                  "textSubjectQualifier": "FCA",
+                  "source": "S",
+                  "encoding": "1"
+                },
+                "freeText": [
+                  "SIN SQ LHR1661INR1661END"
+                ]
+              }
+            ],
+            "officeName": "BOMSQ08VT",
+            "officeAmId": "WS",
+            "manualIndicatorStatus": "N",
+            "creationDateTime": "2022-07-17T00:00:00+0800",
+            "couponDetailsGroup": [
+              {
+                "productId": {
+                  "refType": "SSR",
+                  "refValue": "21"
+                },
+                "rfisc": {
+                  "criteriaSetType": "RSC",
+                  "criteriaDetails": {
+                    "attributeType": "0AA",
+                    "attributeDescription": "EXCESS BAGGAGE WEIGHT"
+                  }
+                },
+                "feeOwnerCode": "SQ",
+                "couponFlags": [
+                  {
+                    "statusDetails": {
+                      "indicator": "CMI",
+                      "action": "N"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NRF",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NEX",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NIL",
+                      "action": "N"
+                    }
+                  }
+                ],
+                "baggageInformation": {
+                  "excessBaggageDetails": {
+                    "currency": "INR",
+                    "amount": 0
+                  },
+                  "baggageDetails": {
+                    "quantityCode": "1",
+                    "unitQualifier": "PC"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pricingRecordId": {
+            "referenceType": "TSM",
+            "uniqueReference": "45"
+          },
+          "passengerTattoos": [
+            {
+              "passengerReference": [
+                {
+                  "type": "PA",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "fareIds": [
+            {
+              "referenceDetails": {}
+            }
+          ],
+          "documentDetailsGroup": {
+            "totalFareAmount": "1661",
+            "totalFareCurrency": "INR",
+            "otherFares": [
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "B",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "GT",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "X",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              }
+            ],
+            "issueIdentifiers": "F",
+            "issueIndicators": "I",
+            "rfics": [
+              {
+                "criteriaSetType": "E",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              },
+              {
+                "criteriaSetType": "I",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              }
+            ],
+            "flags": [
+              {
+                "indicator": "CHF",
+                "action": "N"
+              },
+              {
+                "indicator": "ISD",
+                "action": "N"
+              },
+              {
+                "indicator": "CNF",
+                "action": "N"
+              }
+            ],
+            "generalIndicators": [
+              {
+                "attributeType": "EMD",
+                "attributeDescription": "A"
+              },
+              {
+                "attributeType": "TT",
+                "attributeDescription": "TSM"
+              },
+              {
+                "attributeType": "FCP",
+                "attributeDescription": "0"
+              },
+              {
+                "attributeType": "FCR",
+                "attributeDescription": "0"
+              }
+            ],
+            "fareCalcRemarks": [
+              {
+                "freeTextDetails": {
+                  "textSubjectQualifier": "FCA",
+                  "source": "S",
+                  "encoding": "1"
+                },
+                "freeText": [
+                  "SIN SQ LHR1661INR1661END"
+                ]
+              }
+            ],
+            "officeName": "BOMSQ08VT",
+            "officeAmId": "WS",
+            "manualIndicatorStatus": "N",
+            "creationDateTime": "2022-07-17T00:00:00+0800",
+            "couponDetailsGroup": [
+              {
+                "productId": {
+                  "refType": "SSR",
+                  "refValue": "22"
+                },
+                "rfisc": {
+                  "criteriaSetType": "RSC",
+                  "criteriaDetails": {
+                    "attributeType": "0AA",
+                    "attributeDescription": "EXCESS BAGGAGE WEIGHT"
+                  }
+                },
+                "feeOwnerCode": "SQ",
+                "couponFlags": [
+                  {
+                    "statusDetails": {
+                      "indicator": "CMI",
+                      "action": "N"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NRF",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NEX",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NIL",
+                      "action": "N"
+                    }
+                  }
+                ],
+                "baggageInformation": {
+                  "excessBaggageDetails": {
+                    "currency": "INR",
+                    "amount": 0
+                  },
+                  "baggageDetails": {
+                    "quantityCode": "1",
+                    "unitQualifier": "PC"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pricingRecordId": {
+            "referenceType": "TSM",
+            "uniqueReference": "48"
+          },
+          "passengerTattoos": [
+            {
+              "passengerReference": [
+                {
+                  "type": "PA",
+                  "value": "5"
+                }
+              ]
+            }
+          ],
+          "fareIds": [
+            {
+              "referenceDetails": {}
+            }
+          ],
+          "documentDetailsGroup": {
+            "totalFareAmount": "1661",
+            "totalFareCurrency": "INR",
+            "otherFares": [
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "B",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "GT",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "X",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              }
+            ],
+            "issueIdentifiers": "F",
+            "issueIndicators": "I",
+            "rfics": [
+              {
+                "criteriaSetType": "E",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              },
+              {
+                "criteriaSetType": "I",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              }
+            ],
+            "flags": [
+              {
+                "indicator": "CHF",
+                "action": "N"
+              },
+              {
+                "indicator": "ISD",
+                "action": "N"
+              },
+              {
+                "indicator": "CNF",
+                "action": "N"
+              }
+            ],
+            "generalIndicators": [
+              {
+                "attributeType": "EMD",
+                "attributeDescription": "A"
+              },
+              {
+                "attributeType": "TT",
+                "attributeDescription": "TSM"
+              },
+              {
+                "attributeType": "FCP",
+                "attributeDescription": "0"
+              },
+              {
+                "attributeType": "FCR",
+                "attributeDescription": "0"
+              }
+            ],
+            "fareCalcRemarks": [
+              {
+                "freeTextDetails": {
+                  "textSubjectQualifier": "FCA",
+                  "source": "S",
+                  "encoding": "1"
+                },
+                "freeText": [
+                  "SIN SQ LHR1661INR1661END"
+                ]
+              }
+            ],
+            "officeName": "BOMSQ08VT",
+            "officeAmId": "WS",
+            "manualIndicatorStatus": "N",
+            "creationDateTime": "2022-07-17T00:00:00+0800",
+            "couponDetailsGroup": [
+              {
+                "productId": {
+                  "refType": "SSR",
+                  "refValue": "23"
+                },
+                "rfisc": {
+                  "criteriaSetType": "RSC",
+                  "criteriaDetails": {
+                    "attributeType": "0AA",
+                    "attributeDescription": "EXCESS BAGGAGE WEIGHT"
+                  }
+                },
+                "feeOwnerCode": "SQ",
+                "couponFlags": [
+                  {
+                    "statusDetails": {
+                      "indicator": "CMI",
+                      "action": "N"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NRF",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NEX",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NIL",
+                      "action": "N"
+                    }
+                  }
+                ],
+                "baggageInformation": {
+                  "excessBaggageDetails": {
+                    "currency": "INR",
+                    "amount": 0
+                  },
+                  "baggageDetails": {
+                    "quantityCode": "1",
+                    "unitQualifier": "PC"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pricingRecordId": {
+            "referenceType": "TSM",
+            "uniqueReference": "51"
+          },
+          "passengerTattoos": [
+            {
+              "passengerReference": [
+                {
+                  "type": "PA",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "fareIds": [
+            {
+              "referenceDetails": {}
+            }
+          ],
+          "documentDetailsGroup": {
+            "totalFareAmount": "1661",
+            "totalFareCurrency": "INR",
+            "otherFares": [
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "B",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "GT",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "X",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              }
+            ],
+            "issueIdentifiers": "F",
+            "issueIndicators": "I",
+            "rfics": [
+              {
+                "criteriaSetType": "E",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              },
+              {
+                "criteriaSetType": "I",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              }
+            ],
+            "flags": [
+              {
+                "indicator": "CHF",
+                "action": "N"
+              },
+              {
+                "indicator": "ISD",
+                "action": "N"
+              },
+              {
+                "indicator": "CNF",
+                "action": "N"
+              }
+            ],
+            "generalIndicators": [
+              {
+                "attributeType": "EMD",
+                "attributeDescription": "A"
+              },
+              {
+                "attributeType": "TT",
+                "attributeDescription": "TSM"
+              },
+              {
+                "attributeType": "FCP",
+                "attributeDescription": "0"
+              },
+              {
+                "attributeType": "FCR",
+                "attributeDescription": "0"
+              }
+            ],
+            "fareCalcRemarks": [
+              {
+                "freeTextDetails": {
+                  "textSubjectQualifier": "FCA",
+                  "source": "S",
+                  "encoding": "1"
+                },
+                "freeText": [
+                  "LHR SQ SIN1661INR1661END"
+                ]
+              }
+            ],
+            "officeName": "BOMSQ08VT",
+            "officeAmId": "WS",
+            "manualIndicatorStatus": "N",
+            "creationDateTime": "2022-07-17T00:00:00+0800",
+            "couponDetailsGroup": [
+              {
+                "productId": {
+                  "refType": "SSR",
+                  "refValue": "24"
+                },
+                "rfisc": {
+                  "criteriaSetType": "RSC",
+                  "criteriaDetails": {
+                    "attributeType": "0AA",
+                    "attributeDescription": "EXCESS BAGGAGE WEIGHT"
+                  }
+                },
+                "feeOwnerCode": "SQ",
+                "couponFlags": [
+                  {
+                    "statusDetails": {
+                      "indicator": "CMI",
+                      "action": "N"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NRF",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NEX",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NIL",
+                      "action": "N"
+                    }
+                  }
+                ],
+                "baggageInformation": {
+                  "excessBaggageDetails": {
+                    "currency": "INR",
+                    "amount": 0
+                  },
+                  "baggageDetails": {
+                    "quantityCode": "1",
+                    "unitQualifier": "PC"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pricingRecordId": {
+            "referenceType": "TSM",
+            "uniqueReference": "54"
+          },
+          "passengerTattoos": [
+            {
+              "passengerReference": [
+                {
+                  "type": "PA",
+                  "value": "4"
+                }
+              ]
+            }
+          ],
+          "fareIds": [
+            {
+              "referenceDetails": {}
+            }
+          ],
+          "documentDetailsGroup": {
+            "totalFareAmount": "1661",
+            "totalFareCurrency": "INR",
+            "otherFares": [
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "B",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "GT",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "X",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              }
+            ],
+            "issueIdentifiers": "F",
+            "issueIndicators": "I",
+            "rfics": [
+              {
+                "criteriaSetType": "E",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              },
+              {
+                "criteriaSetType": "I",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              }
+            ],
+            "flags": [
+              {
+                "indicator": "CHF",
+                "action": "N"
+              },
+              {
+                "indicator": "ISD",
+                "action": "N"
+              },
+              {
+                "indicator": "CNF",
+                "action": "N"
+              }
+            ],
+            "generalIndicators": [
+              {
+                "attributeType": "EMD",
+                "attributeDescription": "A"
+              },
+              {
+                "attributeType": "TT",
+                "attributeDescription": "TSM"
+              },
+              {
+                "attributeType": "FCP",
+                "attributeDescription": "0"
+              },
+              {
+                "attributeType": "FCR",
+                "attributeDescription": "0"
+              }
+            ],
+            "fareCalcRemarks": [
+              {
+                "freeTextDetails": {
+                  "textSubjectQualifier": "FCA",
+                  "source": "S",
+                  "encoding": "1"
+                },
+                "freeText": [
+                  "LHR SQ SIN1661INR1661END"
+                ]
+              }
+            ],
+            "officeName": "BOMSQ08VT",
+            "officeAmId": "WS",
+            "manualIndicatorStatus": "N",
+            "creationDateTime": "2022-07-17T00:00:00+0800",
+            "couponDetailsGroup": [
+              {
+                "productId": {
+                  "refType": "SSR",
+                  "refValue": "25"
+                },
+                "rfisc": {
+                  "criteriaSetType": "RSC",
+                  "criteriaDetails": {
+                    "attributeType": "0AA",
+                    "attributeDescription": "EXCESS BAGGAGE WEIGHT"
+                  }
+                },
+                "feeOwnerCode": "SQ",
+                "couponFlags": [
+                  {
+                    "statusDetails": {
+                      "indicator": "CMI",
+                      "action": "N"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NRF",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NEX",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NIL",
+                      "action": "N"
+                    }
+                  }
+                ],
+                "baggageInformation": {
+                  "excessBaggageDetails": {
+                    "currency": "INR",
+                    "amount": 0
+                  },
+                  "baggageDetails": {
+                    "quantityCode": "1",
+                    "unitQualifier": "PC"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pricingRecordId": {
+            "referenceType": "TSM",
+            "uniqueReference": "57"
+          },
+          "passengerTattoos": [
+            {
+              "passengerReference": [
+                {
+                  "type": "PA",
+                  "value": "5"
+                }
+              ]
+            }
+          ],
+          "fareIds": [
+            {
+              "referenceDetails": {}
+            }
+          ],
+          "documentDetailsGroup": {
+            "totalFareAmount": "1661",
+            "totalFareCurrency": "INR",
+            "otherFares": [
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "B",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "GT",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "X",
+                  "amount": "1661",
+                  "currency": "INR"
+                }
+              }
+            ],
+            "issueIdentifiers": "F",
+            "issueIndicators": "I",
+            "rfics": [
+              {
+                "criteriaSetType": "E",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              },
+              {
+                "criteriaSetType": "I",
+                "criteriaDetails": {
+                  "attributeType": "C",
+                  "attributeDescription": "BAGGAGE"
+                }
+              }
+            ],
+            "flags": [
+              {
+                "indicator": "CHF",
+                "action": "N"
+              },
+              {
+                "indicator": "ISD",
+                "action": "N"
+              },
+              {
+                "indicator": "CNF",
+                "action": "N"
+              }
+            ],
+            "generalIndicators": [
+              {
+                "attributeType": "EMD",
+                "attributeDescription": "A"
+              },
+              {
+                "attributeType": "TT",
+                "attributeDescription": "TSM"
+              },
+              {
+                "attributeType": "FCP",
+                "attributeDescription": "0"
+              },
+              {
+                "attributeType": "FCR",
+                "attributeDescription": "0"
+              }
+            ],
+            "fareCalcRemarks": [
+              {
+                "freeTextDetails": {
+                  "textSubjectQualifier": "FCA",
+                  "source": "S",
+                  "encoding": "1"
+                },
+                "freeText": [
+                  "LHR SQ SIN1661INR1661END"
+                ]
+              }
+            ],
+            "officeName": "BOMSQ08VT",
+            "officeAmId": "WS",
+            "manualIndicatorStatus": "N",
+            "creationDateTime": "2022-07-17T00:00:00+0800",
+            "couponDetailsGroup": [
+              {
+                "productId": {
+                  "refType": "SSR",
+                  "refValue": "26"
+                },
+                "rfisc": {
+                  "criteriaSetType": "RSC",
+                  "criteriaDetails": {
+                    "attributeType": "0AA",
+                    "attributeDescription": "EXCESS BAGGAGE WEIGHT"
+                  }
+                },
+                "feeOwnerCode": "SQ",
+                "couponFlags": [
+                  {
+                    "statusDetails": {
+                      "indicator": "CMI",
+                      "action": "N"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NRF",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NEX",
+                      "action": "Y"
+                    }
+                  },
+                  {
+                    "statusDetails": {
+                      "indicator": "NIL",
+                      "action": "N"
+                    }
+                  }
+                ],
+                "baggageInformation": {
+                  "excessBaggageDetails": {
+                    "currency": "INR",
+                    "amount": 0
+                  },
+                  "baggageDetails": {
+                    "quantityCode": "1",
+                    "unitQualifier": "PC"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pricingRecordId": {
+            "referenceType": "TST",
+            "uniqueReference": "1"
+          },
+          "passengerTattoos": [
+            {
+              "passengerReference": [
+                {
+                  "type": "PA",
+                  "value": "2"
+                },
+                {}
+              ]
+            }
+          ],
+          "ptcDiscountCode": [
+            {
+              "discountDetails": {
+                "discountCode": "ADT",
+                "unitQuantity": 1
+              }
+            }
+          ],
+          "documentDetailsGroup": {
+            "totalFareAmount": "157545",
+            "totalFareCurrency": "INR",
+            "otherFares": [
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "B",
+                  "amount": "2503.00",
+                  "currency": "SGD"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "D1",
+                  "amount": "56.458059"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "E",
+                  "amount": "141315",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "H",
+                  "amount": "2503.00",
+                  "currency": "SGD"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "GT",
+                  "amount": "157545",
+                  "currency": "INR"
+                }
+              }
+            ],
+            "taxInformation": [
+              {
+                "taxCategory": "X",
+                "taxDetails": {
+                  "rate": "610",
+                  "countryCode": "L7",
+                  "currencyCode": "INR",
+                  "type": "DE"
+                }
+              },
+              {
+                "taxCategory": "X",
+                "taxDetails": {
+                  "rate": "345",
+                  "countryCode": "OP",
+                  "currencyCode": "INR",
+                  "type": "AE"
+                }
+              },
+              {
+                "taxCategory": "X",
+                "taxDetails": {
+                  "rate": "1999",
+                  "countryCode": "SG",
+                  "currencyCode": "INR",
+                  "type": "AD"
+                }
+              },
+              {
+                "taxCategory": "X",
+                "taxDetails": {
+                  "rate": "7962",
+                  "countryCode": "GB",
+                  "currencyCode": "INR",
+                  "type": "AD"
+                }
+              },
+              {
+                "taxCategory": "X",
+                "taxDetails": {
+                  "rate": "5314",
+                  "countryCode": "UB",
+                  "currencyCode": "INR",
+                  "type": "AS"
+                }
+              }
+            ],
+            "issueIdentifiers": "F",
+            "issueIndicators": "I",
+            "fareOrigin": "SIN",
+            "fareDestination": "SIN",
+            "flags": [
+              {
+                "indicator": "ISD",
+                "action": "N"
+              },
+              {
+                "indicator": "CNF",
+                "action": "N"
+              }
+            ],
+            "generalIndicators": [
+              {
+                "attributeType": "TT",
+                "attributeDescription": "B"
+              },
+              {
+                "attributeType": "FCP",
+                "attributeDescription": "Y"
+              },
+              {
+                "attributeType": "FCM",
+                "attributeDescription": "N"
+              }
+            ],
+            "fareCalcRemarks": [
+              {
+                "freeTextDetails": {
+                  "textSubjectQualifier": "FCA",
+                  "source": "S",
+                  "encoding": "1"
+                },
+                "freeText": [
+                  "SIN SQ LON909.26SQ SIN909.26NUC1818.52END ROE1.376351"
+                ]
+              }
+            ],
+            "officeName": "BOMSQ08VT",
+            "officeAmId": "WS",
+            "negoDetails": {
+              "schemeIndicators": "I",
+              "negoSellingAmount": "2503.00",
+              "negoSellingCurrency": "SGD",
+              "negoPublishedAmount": "2503.00",
+              "negoPublishedCurrency": "SGD",
+              "negoNetFareAmount": "2503.00",
+              "negoNetFareCurrency": "SGD",
+              "commissionType": "S",
+              "commissionAmount": 0.00,
+              "commercialAgreementRef": "POO"
+            },
+            "manualIndicatorStatus": "N",
+            "creationDateTime": "2022-07-17T00:00:00+0800",
+            "couponDetailsGroup": [
+              {
+                "productId": {
+                  "refType": "SEG",
+                  "refValue": "1"
+                },
+                "fareQualifier": {
+                  "fareBasisDetails": {
+                    "rateTariffIndicator": "E12",
+                    "otherRateTariffClass": "SGRPO"
+                  }
+                },
+                "baggageInformation": {
+                  "baggageDetails": {
+                    "freeAllowance": 30,
+                    "quantityCode": "W",
+                    "unitQualifier": "K"
+                  }
+                }
+              },
+              {
+                "productId": {
+                  "refType": "SEG",
+                  "refValue": "2"
+                },
+                "fareQualifier": {
+                  "fareBasisDetails": {
+                    "rateTariffIndicator": "E12",
+                    "otherRateTariffClass": "SGRPO"
+                  }
+                },
+                "baggageInformation": {
+                  "baggageDetails": {
+                    "freeAllowance": 30,
+                    "quantityCode": "W",
+                    "unitQualifier": "K"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pricingRecordId": {
+            "referenceType": "TST",
+            "uniqueReference": "2"
+          },
+          "passengerTattoos": [
+            {
+              "passengerReference": [
+                {
+                  "type": "PA",
+                  "value": "5"
+                }
+              ]
+            }
+          ],
+          "ptcDiscountCode": [
+            {
+              "discountDetails": {
+                "discountCode": "CHD",
+                "unitQuantity": 1
+              }
+            }
+          ],
+          "documentDetailsGroup": {
+            "totalFareAmount": "114298",
+            "totalFareCurrency": "INR",
+            "otherFares": [
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "B",
+                  "amount": "1878.00",
+                  "currency": "SGD"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "D1",
+                  "amount": "56.458059"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "E",
+                  "amount": "106030",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "H",
+                  "amount": "1878.00",
+                  "currency": "SGD"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "GT",
+                  "amount": "114298",
+                  "currency": "INR"
+                }
+              }
+            ],
+            "taxInformation": [
+              {
+                "taxCategory": "X",
+                "taxDetails": {
+                  "rate": "610",
+                  "countryCode": "L7",
+                  "currencyCode": "INR",
+                  "type": "DE"
+                }
+              },
+              {
+                "taxCategory": "X",
+                "taxDetails": {
+                  "rate": "345",
+                  "countryCode": "OP",
+                  "currencyCode": "INR",
+                  "type": "AE"
+                }
+              },
+              {
+                "taxCategory": "X",
+                "taxDetails": {
+                  "rate": "1999",
+                  "countryCode": "SG",
+                  "currencyCode": "INR",
+                  "type": "AD"
+                }
+              },
+              {
+                "taxCategory": "X",
+                "taxDetails": {
+                  "rate": "5314",
+                  "countryCode": "UB",
+                  "currencyCode": "INR",
+                  "type": "AS"
+                }
+              }
+            ],
+            "issueIdentifiers": "F",
+            "issueIndicators": "I",
+            "fareOrigin": "SIN",
+            "fareDestination": "SIN",
+            "flags": [
+              {
+                "indicator": "ISD",
+                "action": "N"
+              },
+              {
+                "indicator": "CNF",
+                "action": "N"
+              }
+            ],
+            "generalIndicators": [
+              {
+                "attributeType": "TT",
+                "attributeDescription": "B"
+              },
+              {
+                "attributeType": "FCP",
+                "attributeDescription": "Y"
+              },
+              {
+                "attributeType": "FCM",
+                "attributeDescription": "N"
+              }
+            ],
+            "fareCalcRemarks": [
+              {
+                "freeTextDetails": {
+                  "textSubjectQualifier": "FCA",
+                  "source": "S",
+                  "encoding": "1"
+                },
+                "freeText": [
+                  "SIN SQ LON681.94SQ SIN681.94NUC1363.88END ROE1.376351"
+                ]
+              }
+            ],
+            "officeName": "BOMSQ08VT",
+            "officeAmId": "WS",
+            "negoDetails": {
+              "schemeIndicators": "I",
+              "negoSellingAmount": "1878.00",
+              "negoSellingCurrency": "SGD",
+              "negoPublishedAmount": "1878.00",
+              "negoPublishedCurrency": "SGD",
+              "negoNetFareAmount": "1878.00",
+              "negoNetFareCurrency": "SGD",
+              "commissionType": "S",
+              "commissionAmount": 0.00,
+              "commercialAgreementRef": "POO"
+            },
+            "manualIndicatorStatus": "N",
+            "creationDateTime": "2022-07-17T00:00:00+0800",
+            "couponDetailsGroup": [
+              {
+                "productId": {
+                  "refType": "SEG",
+                  "refValue": "1"
+                },
+                "fareQualifier": {
+                  "fareBasisDetails": {
+                    "rateTariffClass": "CH25",
+                    "rateTariffIndicator": "E12",
+                    "otherRateTariffClass": "SGRPO"
+                  }
+                },
+                "baggageInformation": {
+                  "baggageDetails": {
+                    "freeAllowance": 30,
+                    "quantityCode": "W",
+                    "unitQualifier": "K"
+                  }
+                }
+              },
+              {
+                "productId": {
+                  "refType": "SEG",
+                  "refValue": "2"
+                },
+                "fareQualifier": {
+                  "fareBasisDetails": {
+                    "rateTariffClass": "CH25",
+                    "rateTariffIndicator": "E12",
+                    "otherRateTariffClass": "SGRPO"
+                  }
+                },
+                "baggageInformation": {
+                  "baggageDetails": {
+                    "freeAllowance": 30,
+                    "quantityCode": "W",
+                    "unitQualifier": "K"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "pricingRecordId": {
+            "referenceType": "TST",
+            "uniqueReference": "3"
+          },
+          "passengerTattoos": [
+            {
+              "passengerReference": [
+                {
+                  "type": "PI",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "ptcDiscountCode": [
+            {
+              "discountDetails": {
+                "discountCode": "INF",
+                "unitQuantity": 1
+              }
+            }
+          ],
+          "documentDetailsGroup": {
+            "totalFareAmount": "19489",
+            "totalFareCurrency": "INR",
+            "otherFares": [
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "B",
+                  "amount": "251.00",
+                  "currency": "SGD"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "D1",
+                  "amount": "56.458059"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "E",
+                  "amount": "14175",
+                  "currency": "INR"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "H",
+                  "amount": "251.00",
+                  "currency": "SGD"
+                }
+              },
+              {
+                "monetaryDetails": {
+                  "typeQualifier": "GT",
+                  "amount": "19489",
+                  "currency": "INR"
+                }
+              }
+            ],
+            "taxInformation": [
+              {
+                "taxCategory": "X",
+                "taxDetails": {
+                  "rate": "5314",
+                  "countryCode": "UB",
+                  "currencyCode": "INR",
+                  "type": "AS"
+                }
+              }
+            ],
+            "issueIdentifiers": "F",
+            "issueIndicators": "I",
+            "fareOrigin": "SIN",
+            "fareDestination": "SIN",
+            "flags": [
+              {
+                "indicator": "ISD",
+                "action": "N"
+              },
+              {
+                "indicator": "CNF",
+                "action": "N"
+              }
+            ],
+            "generalIndicators": [
+              {
+                "attributeType": "TT",
+                "attributeDescription": "B"
+              },
+              {
+                "attributeType": "FCP",
+                "attributeDescription": "Y"
+              },
+              {
+                "attributeType": "FCM",
+                "attributeDescription": "N"
+              }
+            ],
+            "fareCalcRemarks": [
+              {
+                "freeTextDetails": {
+                  "textSubjectQualifier": "FCA",
+                  "source": "S",
+                  "encoding": "1"
+                },
+                "freeText": [
+                  "SIN SQ LON90.92SQ SIN90.92NUC181.84END ROE1.376351"
+                ]
+              }
+            ],
+            "officeName": "BOMSQ08VT",
+            "officeAmId": "WS",
+            "negoDetails": {
+              "schemeIndicators": "I",
+              "negoSellingAmount": "251.00",
+              "negoSellingCurrency": "SGD",
+              "negoPublishedAmount": "251.00",
+              "negoPublishedCurrency": "SGD",
+              "negoNetFareAmount": "251.00",
+              "negoNetFareCurrency": "SGD",
+              "commissionType": "S",
+              "commissionAmount": 0.00,
+              "commercialAgreementRef": "POO"
+            },
+            "manualIndicatorStatus": "N",
+            "creationDateTime": "2022-07-17T00:00:00+0800",
+            "couponDetailsGroup": [
+              {
+                "productId": {
+                  "refType": "SEG",
+                  "refValue": "1"
+                },
+                "fareQualifier": {
+                  "fareBasisDetails": {
+                    "rateTariffClass": "IN90",
+                    "rateTariffIndicator": "E12",
+                    "otherRateTariffClass": "SGRPO"
+                  }
+                },
+                "baggageInformation": {
+                  "baggageDetails": {
+                    "freeAllowance": 10,
+                    "quantityCode": "W",
+                    "unitQualifier": "K"
+                  }
+                }
+              },
+              {
+                "productId": {
+                  "refType": "SEG",
+                  "refValue": "2"
+                },
+                "fareQualifier": {
+                  "fareBasisDetails": {
+                    "rateTariffClass": "IN90",
+                    "rateTariffIndicator": "E12",
+                    "otherRateTariffClass": "SGRPO"
+                  }
+                },
+                "baggageInformation": {
+                  "baggageDetails": {
+                    "freeAllowance": 10,
+                    "quantityCode": "W",
+                    "unitQualifier": "K"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "actMarker": {
+    "actionRequestCode": "0"
+  }
+}
+]

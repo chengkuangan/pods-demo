@@ -1,0 +1,185 @@
+apiVersion: template.openshift.io/v1
+kind: Template
+metadata:
+  name: postgres
+objects:
+- apiVersion: v1
+  kind: Service
+  metadata:
+    labels:
+      app: ${APPLICATION_NAME}
+      app-group: ${APPLICATION_NAME}
+    name: ${APPLICATION_NAME}
+  spec:
+    ports:
+    - name: tcp
+      port: 5432
+      protocol: TCP
+      targetPort: 5432
+    selector:
+      app: ${APPLICATION_NAME}
+    sessionAffinity: None
+    type: ClusterIP
+- apiVersion: apps/v1
+  kind: Deployment
+  metadata:
+    labels:
+      app: ${APPLICATION_NAME}
+      version: ${APP_VERSION}
+    name: ${APPLICATION_NAME}
+  spec:
+    replicas: 1
+    strategy:
+      type: Recreate
+    selector:
+      matchLabels:
+        app: ${APPLICATION_NAME}
+      name: ${APPLICATION_NAME}
+    template:
+      metadata:
+        labels:
+          app: ${APPLICATION_NAME}
+          version: ${APP_VERSION}
+      spec:
+        containers:
+        - env:
+          - name: POSTGRES_USER
+            valueFrom:
+              secretKeyRef:
+                key: postgres.user
+                name: ${APPLICATION_NAME}
+          - name: POSTGRES_DB
+            valueFrom:
+              configMapKeyRef:
+                key: postgres.database
+                name: ${APPLICATION_NAME}
+          - name: POSTGRES_PASSWORD
+            valueFrom:
+              secretKeyRef:
+                key: postgres.password
+                name: ${APPLICATION_NAME}
+          - name: PGPASSWORD
+            valueFrom:
+              secretKeyRef:
+                key: postgres.password
+                name: ${APPLICATION_NAME}
+          - name: POSTGRES_SCHEMA
+            valueFrom:
+              configMapKeyRef:
+                key: postgres.schema
+                name: ${APPLICATION_NAME}
+          image: quay.io/debezium/example-postgres:2.1
+          args: ["-c", "max_connections=1000"]
+          imagePullPolicy: IfNotPresent
+          livenessProbe:
+            failureThreshold: 3
+            initialDelaySeconds: 60
+            periodSeconds: 10
+            successThreshold: 1
+            tcpSocket:
+              port: 5432
+            timeoutSeconds: 300
+          name: ${APPLICATION_NAME}
+          ports:
+          - containerPort: 5432
+            protocol: TCP
+          resources:
+            requests:
+              memory: 2Gi
+              cpu: 2
+            limits:
+              memory: 4Gi
+              cpu: 4
+          securityContext:
+            capabilities: {}
+            privileged: false
+          terminationMessagePath: /dev/termination-log
+          volumeMounts:
+          - mountPath: /var/lib/postgresql
+            name: ${APPLICATION_NAME}-data
+          - name: initdb-volume
+            mountPath: /docker-entrypoint-initdb.d
+        dnsPolicy: ClusterFirst
+        restartPolicy: Always
+        securityContext: {}
+        terminationGracePeriodSeconds: 30
+        volumes:
+        - name: ${APPLICATION_NAME}-data
+          persistentVolumeClaim:
+            claimName: ${APPLICATION_NAME}
+        - name: initdb-volume
+          configMap:
+            name: dbinit
+    test: false
+- apiVersion: v1
+  kind: PersistentVolumeClaim
+  metadata:
+    labels:
+      app: ${APPLICATION_NAME}
+      app-group: ${APPLICATION_NAME}
+    name: ${APPLICATION_NAME}
+  spec:
+    accessModes:
+    - ReadWriteOnce
+    resources:
+      requests:
+        storage: ${POSTGRES_VOLUME_CAPACITY}
+- apiVersion: v1
+  kind: ConfigMap
+  metadata:
+    labels:
+      app: ${APPLICATION_NAME}
+      app-group: ${APPLICATION_NAME}
+    name: ${APPLICATION_NAME}
+  data:
+    postgres.database: ${POSTGRES_DATABASE}
+    postgres.server.host: ${APPLICATION_NAME}:5432
+    postgres.schema: ${POSTGRES_SCHEMA}
+- apiVersion: v1
+  kind: Secret
+  metadata:
+    name: ${APPLICATION_NAME}
+    labels:
+      app: ${APPLICATION_NAME}
+      app-group: ${APPLICATION_NAME}
+      version: v1
+      template: ${APPLICATION_NAME}
+  data:
+    postgres.password: ${POSTGRES_PASSWORD}
+    postgres.user: ${POSTGRES_USER}
+parameters:
+- description: Application Name
+  displayName: Application Name
+  name: APPLICATION_NAME
+  value: casa
+  required: true
+- description: Database Name
+  displayName: Database Name
+  name: POSTGRES_DATABASE
+  value: casa
+  required: true
+- description: Database Schema
+  displayName: Database Schema
+  name: POSTGRES_SCHEMA
+  value: casa
+  required: true
+- description: Database User
+  displayName: Database User
+  name: POSTGRES_USER
+  value: Y2FzYQ==
+  required: true
+- description: Database Password
+  displayName: Database Password
+  name: POSTGRES_PASSWORD
+  value: Y2FzYQ==
+  required: true
+- description: Postgres Volume Capacity
+  displayName: Postgres Volume Capacity
+  name: POSTGRES_VOLUME_CAPACITY
+  value: 10Gi
+  required: true
+- name: APP_VERSION
+  displayName: Application version
+  description: Application version label
+  value: v1
+  required": true

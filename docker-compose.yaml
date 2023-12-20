@@ -1,0 +1,73 @@
+version: '3'
+
+services:
+  amq:
+    image: chengkuan/apache-artemis:2.17.0-SNAPSHOT
+    environment:
+     - ARTEMIS_USER=admin
+     - ARTEMIS_PASSWORD=admin
+    healthcheck:
+      test:
+        ["CMD", "./bin/artemis", "check", "node", "--user", "${ARTEMIS_USER}", "--password", "${ARTEMIS_PASSWORD}"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+    ports:
+     - 61616:61616
+     - 8161:8161
+    volumes:
+      - /var/lib/artemis-instance
+  postgres:
+    image: postgres:alpine3.18
+    #image: quay.io/debezium/example-postgres:2.1
+    ports:
+     - 5432:5432
+    #healthcheck:
+    #  test: "psql --username $POSTGRES_USER -d $POSTGRES_DB -c 'select version()'"
+    #  interval: 10s
+    #  timeout: 20s
+    #  retries: 10
+    command: postgres -c 'max_connections=200'
+    environment:
+     - POSTGRES_USER=pods
+     - POSTGRES_PASSWORD=pods
+     - PGPASSWORD=pods
+     - POSTGRES_DB=pods
+     - POSTGRES_SCHEMA=pnr
+    volumes:
+      - ./sql/initdb.sh:/docker-entrypoint-initdb.d/initdb.sh
+      - /var/lib/postgresql/data
+  prometheus:
+    image: prom/prometheus
+    container_name: prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+    ports:
+      - 9090:9090
+    restart: unless-stopped
+    volumes:
+      - ./yaml/monitoring/prom:/etc/prometheus
+      - prom_data:/prometheus
+  grafana:
+    image: grafana/grafana
+    container_name: grafana
+    ports:
+      - 3000:3000
+    restart: unless-stopped
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=grafana
+    volumes:
+      #- ./yaml/monitoring/grafana:/etc/grafana/provisioning/
+      - ./yaml/monitoring/grafana/datasources:/etc/grafana/provisioning/datasources
+  postgres-exporter:
+    image: prometheuscommunity/postgres-exporter
+    ports:
+      - 9187:9187
+    environment:
+      DATA_SOURCE_NAME: "postgresql://pods:pods@postgres:5432/pods?sslmode=disable"
+    links:
+      - postgres
+      - prometheus
+volumes:
+  prom_data:
