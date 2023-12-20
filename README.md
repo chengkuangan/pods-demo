@@ -6,7 +6,9 @@
     - AMQ Broker Operator. Refer product documentation to install AMQ Broker Operator.
     - Grafana Operator. Refer Grafana Operator documentation to install the operator.
 <br>
+
 2. Refer [Deploying Grafana on OpenShift 4](https://cloud.redhat.com/experts/o11y/ocp-grafana/)
+
     - Correction on the step to get Token
         ```
         # The serviceaccount may not link to the token required. In this case, you need to manually find out what is the actual token created as OCP secret.
