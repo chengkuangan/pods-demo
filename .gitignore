@@ -39,3 +39,6 @@ nb-configuration.xml
 .env
 
 .camel-jbang
+sample-1000.json
+sample-900.json
+sample-800.json
